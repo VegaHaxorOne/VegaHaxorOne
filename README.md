@@ -10,7 +10,9 @@ That's why, as I work on building and developing various projects on my own, you
 <br><br><br>
 
 <div align="center">
-  <h2> Core Skills </h2>
+  <p>
+    <h2> Core Skills </h2>
+  </p>
   <table style="margin: auto;">
     <tr>
       <th>Main Technologies</th>
