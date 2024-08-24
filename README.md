@@ -43,9 +43,6 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
     </tr>
   </table>
-</div>
-<br><br><br>
-<div align="center">
   <details>
       <summary><h2>Stats</h2></summary>
       <figure>
@@ -53,7 +50,6 @@ That's why, as I work on building and developing various projects on my own, you
       </figure>
   </details>
 </div>
-
 <br><br><br>
 <h2> Providing Feedback </h2>
 
