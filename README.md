@@ -47,8 +47,12 @@ That's why, as I work on building and developing various projects on my own, you
 <details>
   <summary><h2>Stats</h2></summary>
   <figure>
+    <a valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
+    </a>
+    <a valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&show_icons=true&rank_icon=github" />
+    </a>
   </figure>
 </details>
 <br><br><br>
