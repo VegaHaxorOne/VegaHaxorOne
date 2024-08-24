@@ -29,7 +29,9 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          Rust
+          <a href="https://www.rust-lang.org/">
+            Rust
+          </a>
         </div>
       </td>
       <td>
@@ -50,7 +52,9 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          Python
+          <a href="https://www.python.org/about/quotes/">
+            Python
+          </a>
         </div>
       </td>
       <td>
@@ -70,7 +74,9 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          Pine Script
+          <a href="https://www.tradingview.com/support/solutions/43000561836-what-is-pine-script/">
+            Pine Script
+          </a>
         </div>
       </td>
       <td>
@@ -120,6 +126,202 @@ That's why, as I work on building and developing various projects on my own, you
           </a>
         </div>
     </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            CSS
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            Java Script
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=md&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            MD
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            C++
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=java&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            Java
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            PowerShell
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=php&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            PHP
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            MySQL
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+  </table>
+</div>
+<div align=""center>
+  <table>
+      <th>#</th>
+      <th>Tool</th>
+      <th>Proficiency</th>
+      <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+      </tr>
+      
+  </table>
+</div>
+<div align=""center>
+
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
@@ -127,29 +329,16 @@ That's why, as I work on building and developing various projects on my own, you
 
     Altre tabelle
       #//////////////////////////////////
-      <th>#</th>
-      <th>Other Notions</th>
-      <th>Proficiency</th>
+      
       #//////////////////////////////////
-      <th>#</th>
-      <th>Tool</th>
-      <th>Proficiency</th>
+      
       #//////////////////////////////////
       <th>#</th>
       <th>System</th>
       <th>Proficiency</th>
       
     <tr>
-      <td valign="top">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,md&perline=3&titles=true" />
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,powershell,php,mysql&perline=3&titles=true" />
-        </a>
-      </td>
+      
       <td valign="top">
         <a href=" https://github.com/theMoor9?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
@@ -162,31 +351,9 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
     </tr>
 
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,powershell,php,mysql&perline=3&titles=true" />
-        </a>
-      </td>
-      <td valign="top">
-        <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
-        </a>
-      </td>
-      <td valign="top">
-        <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,linux&perline=3&titles=true" />
-        </a>
-      </td>
-    </tr>
     
-  </table>
-</div>
+    
+  
 <br><br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17">
