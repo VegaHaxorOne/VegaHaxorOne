@@ -10,6 +10,7 @@ That's why, as I work on building and developing various projects on my own, you
 <br><br><br>
 
 <div align="center">
+  <details>
   <p>
     <h2> Core Skills </h2>
   </p>
@@ -43,14 +44,17 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
     </tr>
   </table>
+  </details>
 </div>
-<details>
-    <summary><h2>My Github Stats</h2></summary>
-    <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=theMoor9&theme=dracula" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=dracula" />
-    </figure>
-</details>
+<br><br><br>
+<div align="center">
+  <details>
+      <summary><h2>Stats</h2></summary>
+      <figure>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=chartreuse-dark" />
+      </figure>
+  </details>
+</div>
 
 <br><br><br>
 <h2> Providing Feedback </h2>
