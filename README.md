@@ -23,22 +23,22 @@ That's why, as I work on building and developing various projects on my own, you
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,powershell,php,mysql&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,powershell,php,mysql&perline=3&titles=true" />
         </a>
       </td>
       <td valign="top">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
         </a>
       </td>
       <td valign="top">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,linux&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,linux&perline=3&titles=true" />
         </a>
       </td>
     </tr>
