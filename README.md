@@ -24,9 +24,9 @@ That's why, as I work on building and developing various projects on my own, you
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
-          <div>
-              <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true" alt="My Skills">
-          </div>
+        </a>
+        <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true" />
         </a>
       </td>
       <td valign="top">
