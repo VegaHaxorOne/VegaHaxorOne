@@ -18,6 +18,51 @@ That's why, as I work on building and developing various projects on my own, you
       <th>#</th>
       <th>Technology</th>
       <th>Proficiency</th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://www.rust-lang.org/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          Rust
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="[https://www.rust-lang.org/](https://www.python.org/about/quotes/)">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=py&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          Python
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+
+    Altre tabelle
       #//////////////////////////////////
       <th>#</th>
       <th>Other Notions</th>
@@ -30,36 +75,7 @@ That's why, as I work on building and developing various projects on my own, you
       <th>#</th>
       <th>System</th>
       <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td valign="center">
-        <a href="https://www.rust-lang.org/">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true" />
-        </a>
-      </td>
-      <td valign="center">
-        Rust
-      </td>
-      <td valign="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
-        </a>
-      </td>
       
-      <td valign="center">
-        <a href="[https://www.rust-lang.org/](https://www.python.org/about/quotes/)">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=py&titles=true" />
-        </a>
-      </td>
-      <td valign="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
-        </a>
-    </tr>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
-    
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
