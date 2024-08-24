@@ -15,11 +15,51 @@ That's why, as I work on building and developing various projects on my own, you
   </p>
   <table style="margin: auto;">
     <tr>
-      <th>Main Technologies</th>
+      <th>#</th>
+      <th>Technology</th>
+      <th>Proficiency</th>
+      #//////////////////////////////////
+      <th>#</th>
       <th>Other Notions</th>
-      <th>Tools</th>
-      <th>Systems</th>
+      <th>Proficiency</th>
+      #//////////////////////////////////
+      <th>#</th>
+      <th>Tool</th>
+      <th>Proficiency</th>
+      #//////////////////////////////////
+      <th>#</th>
+      <th>System</th>
+      <th>Proficiency</th>
     </tr>
+    <tr>
+      <td valign="center">
+        <a href="https://www.rust-lang.org/">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true" />
+        </a>
+      </td>
+      <td valign="center">
+        Rust
+      </td>
+      <td valign="center">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
+        </a>
+      </td>
+      
+      <td valign="center">
+        <a href="[https://www.rust-lang.org/](https://www.python.org/about/quotes/)">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=py&titles=true" />
+        </a>
+      </td>
+      <td valign="center">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
+        </a>
+    </tr>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+    
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
@@ -42,10 +82,35 @@ That's why, as I work on building and developing various projects on my own, you
         </a>
       </td>
     </tr>
+
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,powershell,php,mysql&perline=3&titles=true" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href=" https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href=" https://github.com/theMoor9?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,linux&perline=3&titles=true" />
+        </a>
+      </td>
+    </tr>
+    
   </table>
 </div>
 <br><br>
 <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17">
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
 </div>
@@ -56,11 +121,11 @@ That's why, as I work on building and developing various projects on my own, you
     <h2> Providing Feedback </h2>
   </summary>
   <figure>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> **Report Bugs**: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> <b>Report Bugs</b>: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
     <br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="17" height="17"> **Suggest Features**: Have an idea for a new feature? Submit a feature request in the Issues tabs of the relevant repositories.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="17" height="17"> <b>Suggest Features</b>: Have an idea for a new feature? Submit a feature request in the Issues tabs of the relevant repositories.
     <br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> **General Feedback**: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>General Feedback</b>: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
   </figure>
   <br><br><br>
 </details>
