@@ -20,10 +20,6 @@ That's why, as I work on building and developing various projects on my own, you
       <th>Proficiency</th>
       <th></th>
       <th>#</th>
-      <th>Tool</th>
-      <th>Proficiency</th>
-      <th></th>
-      <th>#</th>
       <th>System</th>
       <th>Proficiency</th>
     </tr>
@@ -203,8 +199,11 @@ That's why, as I work on building and developing various projects on my own, you
   </details>
 </div>
 
-<div style="display: inline-block; width: 200px; height: 100px; background-color: lightblue;">
+<div style="display: inline-block;">
   <table>
+      <th>#</th>
+      <th>Tool</th>
+      <th>Proficiency</th>
       <tr>
         <td>
         </td>
@@ -216,7 +215,24 @@ That's why, as I work on building and developing various projects on my own, you
       
   </table>
 </div>
-<div align=""center>
+
+<div style="display: inline-block">
+  <table>
+      <th>#</th>
+      <th>Tool</th>
+      <th>Proficiency</th>
+      <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+      </tr>
+      
+  </table>
+</div>
+
 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
