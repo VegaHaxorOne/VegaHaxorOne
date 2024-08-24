@@ -46,6 +46,7 @@ That's why, as I work on building and developing various projects on my own, you
 </div>
 <br><br>
 <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
 </div>
@@ -53,7 +54,7 @@ That's why, as I work on building and developing various projects on my own, you
 
 <details>
   <summary>
-    <h2> Providing Feedback </h2>
+    <h2> Providing Feedback <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" /></h2>
   </summary>
   <figure>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> <b>Report Bugs</b>: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
