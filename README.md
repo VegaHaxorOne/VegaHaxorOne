@@ -34,14 +34,16 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
+          <a href="https://www.rust-lang.org/">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
           </a>
         </div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div align="center">
-          <a href="[https://www.rust-lang.org/](https://www.python.org/about/quotes/)">
+          <a href="https://www.python.org/about/quotes/">
             <img src="https://go-skill-icons.vercel.app/api/icons?i=py&titles=true" />
           </a>
         </div>
@@ -53,11 +55,72 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
+          <a href="https://www.python.org/about/quotes/s">
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
           </a>
         </div>
     </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://www.tradingview.com/support/solutions/43000561836-what-is-pine-script/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=pinescript&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          Pine Script
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://www.tradingview.com/support/solutions/43000561836-what-is-pine-script/">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          Bash
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true" />
+          </a>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          HTML
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/theMoor9?tab=repositories">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+          </a>
+        </div>
+    </tr>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
@@ -79,7 +142,7 @@ That's why, as I work on building and developing various projects on my own, you
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,md&perline=3&titles=true" />
         </a>
       </td>
       <td valign="top">
