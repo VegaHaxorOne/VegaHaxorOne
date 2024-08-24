@@ -46,8 +46,6 @@ That's why, as I work on building and developing various projects on my own, you
 </div>
 <br><br>
 <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" />
-    <a>        </a>
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
 </div>
@@ -57,7 +55,7 @@ That's why, as I work on building and developing various projects on my own, you
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Visits)
 
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
-<br><br>
+<br>
 
 <details>
     <summary>
