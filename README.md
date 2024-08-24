@@ -107,6 +107,10 @@ That's why, as I work on building and developing various projects on my own, you
         </div>
     </tr>
     <tr>
+    <td colspan="3">
+      <details>
+        <summary>Mostra/Nascondi dettagli</summary>
+    <tr>
       <td>
         <div align="center">
           <a href="https://github.com/theMoor9?tab=repositories">
@@ -302,8 +306,12 @@ That's why, as I work on building and developing various projects on my own, you
           </a>
         </div>
     </tr>
+    </details>
+    </td>
+  </tr>
   </table>
 </div>
+
 <div align=""center>
   <table>
       <th>#</th>
