@@ -10,9 +10,8 @@ That's why, as I work on building and developing various projects on my own, you
 <br><br><br>
 
 <div align="center">
-  <details>
   <p>
-    <summary><h2> Core Skills </h2></summary>
+    <h2> Core Skills </h2>
   </p>
   <table style="margin: auto;">
     <tr>
@@ -44,14 +43,13 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
     </tr>
   </table>
-  </details>
 </div>
 <br><br><br>
 <div align="center">
   <details>
       <summary><h2>Stats</h2></summary>
       <figure>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=chartreuse-dark" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
       </figure>
   </details>
 </div>
