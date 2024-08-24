@@ -12,7 +12,7 @@ That's why, as I work on building and developing various projects on my own, you
 <div align="center">
   <details>
   <p>
-    <h2> Core Skills </h2>
+    <summary><h2> Core Skills </h2></summary>
   </p>
   <table style="margin: auto;">
     <tr>
