@@ -24,6 +24,7 @@ That's why, as I work on building and developing various projects on my own, you
       <td valign="top">
         <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3&titles=true" />
+          ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
         </a>
       </td>
       <td valign="top">
