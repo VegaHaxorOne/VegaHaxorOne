@@ -18,6 +18,14 @@ That's why, as I work on building and developing various projects on my own, you
       <th>#</th>
       <th>Technology</th>
       <th>Proficiency</th>
+      <th></th>
+      <th>#</th>
+      <th>Tool</th>
+      <th>Proficiency</th>
+      <th></th>
+      <th>#</th>
+      <th>System</th>
+      <th>Proficiency</th>
     </tr>
     <tr>
       <td>
@@ -141,9 +149,7 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
             CSS
-          </a>
         </div>
       </td>
       <td>
@@ -163,9 +169,7 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
             Java Script
-          </a>
         </div>
       </td>
       <td>
@@ -185,9 +189,7 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
       <td>
         <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
             MD
-          </a>
         </div>
       </td>
       <td>
@@ -203,9 +205,6 @@ That's why, as I work on building and developing various projects on my own, you
 
 <div align=""center>
   <table>
-      <th>#</th>
-      <th>Tool</th>
-      <th>Proficiency</th>
       <tr>
         <td>
         </td>
@@ -230,9 +229,7 @@ That's why, as I work on building and developing various projects on my own, you
       #//////////////////////////////////
       
       #//////////////////////////////////
-      <th>#</th>
-      <th>System</th>
-      <th>Proficiency</th>
+
       
     <tr>
       
