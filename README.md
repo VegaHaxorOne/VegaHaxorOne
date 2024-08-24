@@ -58,15 +58,7 @@ That's why, as I work on building and developing various projects on my own, you
 
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
 <br><br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;Computer+Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
-</div>
-<br>
-<div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&reversal=false&fontSize=30&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
-</div>
 
-<br><br>
 <details>
     <summary>
     <h2> Providing Feedback <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" /></h2> 
@@ -79,5 +71,16 @@ Thank you for being a part of this and for helping me create better projects and
     <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>General Feedback</b>: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
   </figure>
 </details>
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;Computer+Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
+</div>
+<br>
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&reversal=false&fontSize=30&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
+</div>
+
+
 
 
