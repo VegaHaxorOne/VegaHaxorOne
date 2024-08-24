@@ -43,13 +43,13 @@ That's why, as I work on building and developing various projects on my own, you
       </td>
     </tr>
   </table>
-  <details>
-      <summary><h2>Stats</h2></summary>
-      <figure>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
-      </figure>
-  </details>
 </div>
+<details>
+  <summary><h2>Stats</h2></summary>
+  <figure>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
+  </figure>
+</details>
 <br><br><br>
 <h2> Providing Feedback </h2>
 
