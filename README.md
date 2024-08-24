@@ -23,7 +23,7 @@ That's why, as I work on building and developing various projects on my own, you
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,bash,html,css,js,md&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,html,css,js,md&perline=3" />
         </a>
       </td>
       <td valign="top">
@@ -40,19 +40,6 @@ That's why, as I work on building and developing various projects on my own, you
         <a href=" https://github.com/theMoor9?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,linux&perline=3" />
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" style="border: 1px solid black;"> 
-        <a href="https://tradingview.com/support/solutions/43000561836/">
-          <img src="https://private-user-images.githubusercontent.com/159493936/360391178-3068150b-8780-4dea-80ae-c21a7fa0bfc0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzMjI0MTMsIm5iZiI6MTcyNDMyMjExMywicGF0aCI6Ii8xNTk0OTM5MzYvMzYwMzkxMTc4LTMwNjgxNTBiLTg3ODAtNGRlYS04MGFlLWMyMWE3ZmEwYmZjMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMlQxMDIxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZDNmYzY5MGVmZjIwYmI5MDExMjgwM2U0YzkwNTc3ZWI4YTIzYWQwZWFmMTNjZGUxYzg0NzMwYTJiZmVmYTMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.P_tDqHz91atW4BaSYMEQdj3nczW37YxmUS7gIa7pHQc">
-        </a>
-      </td>
-      <td valign="top"> 
-      </td>
-      <td valign="top"> 
-      </td>
-      <td valign="top"> 
       </td>
     </tr>
   </table>
