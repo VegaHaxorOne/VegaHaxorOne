@@ -44,15 +44,15 @@ That's why, as I work on building and developing various projects on my own, you
     </tr>
   </table>
 </div>
-<br><br>
+
 <details>
-  <summary><h2>Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></h2></summary>
+  <summary><h2>Stats</h2></summary>
   <figure>
       <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
       <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
   </figure>
 </details>
-<br><br><br>
+
 <h2> Providing Feedback </h2>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> **Report Bugs**: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
