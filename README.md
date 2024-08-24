@@ -109,203 +109,205 @@ That's why, as I work on building and developing various projects on my own, you
     <tr>
     <td colspan="3">
       <details>
-        <summary>Mostra/Nascondi dettagli</summary>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          HTML
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            CSS
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            Java Script
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=md&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            MD
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            C++
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=java&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            Java
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            PowerShell
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=php&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            PHP
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true" />
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            MySQL
-          </a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://github.com/theMoor9?tab=repositories">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
-          </a>
-        </div>
-    </tr>
+        <summary>Shoe/Hide</summary>
+        <figure>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            HTML
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              CSS
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              Java Script
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=md&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              MD
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              C++
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=java&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              Java
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              PowerShell
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=php&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              PHP
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true" />
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              MySQL
+            </a>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <a href="https://github.com/theMoor9?tab=repositories">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
+            </a>
+          </div>
+      </tr>
+        </figure>
     </details>
     </td>
   </tr>
