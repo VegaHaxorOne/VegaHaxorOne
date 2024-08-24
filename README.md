@@ -9,7 +9,7 @@ I'll be brief. I am Kenneth, a software developer who gives his best to grow ind
 That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
 <br><br><br>
 
-<div align="center">
+<div style="display: inline-block; width: 200px; height: 100px; background-color: lightblue;">
   <p>
     <h2> Core Skills </h2>
   </p>
@@ -203,7 +203,7 @@ That's why, as I work on building and developing various projects on my own, you
   </details>
 </div>
 
-<div align=""center>
+<div style="display: inline-block; width: 200px; height: 100px; background-color: lightblue;">
   <table>
       <tr>
         <td>
