@@ -47,8 +47,8 @@ That's why, as I work on building and developing various projects on my own, you
 <details>
     <summary><h2>My Github Stats</h2></summary>
     <figure>
-        <img src="https://github-readme-stats.vercel.app/api?username=lelouchfr&theme=dracula" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=theMoor9&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=dracula" />
     </figure>
 </details>
 
