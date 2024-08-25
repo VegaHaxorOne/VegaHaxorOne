@@ -44,7 +44,7 @@ That's why, as I work on building and developing various projects on my own, you
     </tr>
     <tr>
       <td colspan="4" style="text-align: center; padding-top: 20px;">
-        <div style="font-size: 10%;">
+        <div style="font-size: 12px;">
           <p ><strong>Disclaimer</strong>: 
             <em>  
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
