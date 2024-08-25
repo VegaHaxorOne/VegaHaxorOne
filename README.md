@@ -44,9 +44,9 @@ That's why, as I work on building and developing various projects on my own, you
     </tr>
     <tr>
       <td colspan="4" style="text-align: center; padding-top: 20px;">
-        <div style="font-size: 12px;">
+        <div >
           <p ><strong>Disclaimer</strong>: 
-            <em>  
+            <em style="font-size: 12px;">  
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
               helping me outline and track the workflow. However, AI cannot replace me, as it lacks the adaptability and creativity that I consider essential 
               to achieve the level of quality I demand in the development of my scripts.
