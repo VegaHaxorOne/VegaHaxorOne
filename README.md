@@ -50,9 +50,6 @@ That's why, as I work on building and developing various projects on my own, you
           to achieve the level of quality I demand in the development of my scripts.
         </em>
       </p>
-
-
-
     </tr>  
   </table>
 </div>
