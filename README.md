@@ -29,9 +29,11 @@ That's why, as I work on building and developing various projects on my own, you
         </div>
       </td>
       <td valign="top">
+        <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,php,mysql&perline=3&titles=true" />
         </a>
+        </div>
       </td>
       <td valign="top">
         <div align="center">
