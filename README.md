@@ -22,9 +22,11 @@ That's why, as I work on building and developing various projects on my own, you
     </tr>
     <tr>
       <td valign="top">
-        <a align="center" href="https://github.com/theMoor9?tab=repositories">
+        <div align="center">
+        <a href="https://github.com/theMoor9?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,pinescript,bash,powershell,html,css,md&perline=3&titles=true" />
         </a>
+        </div>
       </td>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
