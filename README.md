@@ -23,7 +23,7 @@ That's why, as I work on building and developing various projects on my own, you
     <tr>
       <td valign="top">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,pinescript,bash,powershell,html,css,js,md&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,pinescript,bash,powershell,html,css,md&perline=3&titles=true" />
         </a>
       </td>
       <td valign="top">
