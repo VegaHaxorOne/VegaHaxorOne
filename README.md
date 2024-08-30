@@ -88,6 +88,8 @@ Thank you for being a part of this and for helping me create better projects and
     <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="17" height="17"> <b>Suggest Features</b>: Have an idea for a new feature? Submit a feature request in the Issues tabs of the relevant repositories.
     <br><br>
     <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>General Feedback</b>: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
+    <br><br>
+    <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>Support</b>: If you have found any of my content useful and would like to encourage more thorough work, you can support me <a href="https://revolut.me/kennetr3y8">here</a>.
   </figure>
 </details>
 <br><br>
