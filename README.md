@@ -89,7 +89,7 @@ Thank you for being a part of this and for helping me create better projects and
     <br><br>
     <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>General Feedback</b>: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
     <br><br>
-    <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> <b>Support</b>: If you have found any of my content useful and would like to encourage more thorough work, you can support me <a href="https://revolut.me/kennetr3y8">here</a>.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <b>Support</b>: If you have found any of my content useful and would like to encourage more thorough work, you can support me <a href="https://revolut.me/kennetr3y8">here</a>. Thank You ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
   </figure>
 </details>
 <br><br>
