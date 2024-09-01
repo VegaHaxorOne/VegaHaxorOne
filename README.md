@@ -78,13 +78,13 @@
         <small >
           <p>
           <details>
-          <div align="center">
           <summary>
+          <div align="center">
             <strong>
             Disclaimer 
             </strong>
-          </summary>
           </div>
+          </summary>
           <figure>
             <em>  
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
