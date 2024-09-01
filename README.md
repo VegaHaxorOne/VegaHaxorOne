@@ -22,11 +22,8 @@
       <br><br>
       That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
       <br><br><br>
-      <div align="center">
-      </div>
     </figure>
 </details>
-<br><br>
 <div align="center">
   <img  src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
 </div>
@@ -81,9 +78,13 @@
         <small >
           <p>
           <details>
+          <div align="center">
           <summary>
-          <strong>Disclaimer</strong>
+            <strong>
+            Disclaimer 
+            </strong>
           </summary>
+          </div>
           <figure>
             <em>  
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
