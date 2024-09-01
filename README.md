@@ -122,7 +122,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Visits)
 
-Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
+Being a part of theese projects will help create better material for the community. As i constantly improve my skill set your support and feedback are greatly appreciated! 
 <br>
 
 <details>
