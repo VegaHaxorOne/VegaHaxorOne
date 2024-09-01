@@ -7,11 +7,9 @@
     <summary >
       <div align="center">
       <h1>  
-        <a>
-        <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" />
-        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" />
-        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" />
-        </a>
+        <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" style="pointer-events: none;"  />
+        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
+        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" style="pointer-events: none;"  />
         </h1>
       </div>
     </summary>
@@ -22,7 +20,7 @@
       That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
       <br><br><br>
       <div align="center">
-      <img src="https://i.pinimg.com/originals/1b/83/dc/1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
+      <img src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
       </div>
     </figure>
 </details>
