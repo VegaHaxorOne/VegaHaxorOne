@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
 </div>
-<br><br><br>
+<br><br>
 <div align="center">
   <p>
     <h2> Core Skills </h2>
@@ -54,14 +54,14 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,php,mysql&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,nodejs,php,mysql&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave&perline=3&titles=true"/>
         </a>
         </div>
       </td>
@@ -79,11 +79,9 @@
           <p>
           <details>
           <summary>
-          <div align="center">
             <strong>
-            Disclaimer 
+            Details 
             </strong>
-          </div>
           </summary>
           <figure>
             <em>  
