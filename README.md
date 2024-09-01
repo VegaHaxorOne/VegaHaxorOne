@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&text=🖐️%20Ciao,%20Welcome%20to%20My%20GitHub!&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> 
 </div>
 <br><br>
-
+About me 
 <details>
     <summary >
-        About me 
-        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="15" height="15" />
         <h1> 
           <div align="center">
           <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" />
