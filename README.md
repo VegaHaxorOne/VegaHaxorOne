@@ -23,10 +23,13 @@
       That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
       <br><br><br>
       <div align="center">
-      <img src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
       </div>
     </figure>
 </details>
+<br><br>
+<div align="center">
+  <img  src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
+</div>
 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
@@ -76,12 +79,19 @@
     <tr>
       <td colspan="4" style="text-align: center; padding-top: 20px;">
         <small >
-          <p><strong>Disclaimer</strong>: 
+          <p>
+          <details>
+          <summary>
+          <strong>Disclaimer</strong>
+          </summary>
+          <figure>
             <em>  
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
               helping me outline and track the workflow. However, AI cannot replace me, as it lacks the adaptability and creativity that I consider essential 
               to achieve the level of quality I demand in the development of my scripts.
             </em>
+            </figure>
+            </details>
           </p>
         </small>
       </td>
