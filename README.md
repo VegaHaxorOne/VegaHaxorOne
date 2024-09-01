@@ -3,15 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&text=🖐️%20Ciao,%20Welcome%20to%20My%20GitHub!&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> 
 </div>
 <br><br>
+
 <details>
     <summary >
-      <div align="center">
-      <h1>  
-        <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" style="pointer-events: none;"  />
-        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
-        <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" style="pointer-events: none;"  />
+        <a align="left">
+          Show
+        <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" /> 
+        <h1> 
+          <div align="center">
+          <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" />
+          <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
+          <img align="top" alt="Thought Balloon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png"  width="25" height="25" />
+          </div>
         </h1>
-      </div>
+        </a>
     </summary>
     <figure>
       <br>
