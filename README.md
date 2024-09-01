@@ -29,7 +29,7 @@
 </details>
 <br><br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;Computer+Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
 </div>
 <br><br><br>
 <div align="center">
@@ -127,7 +127,7 @@ Thank you for being a part of this and for helping me create better projects and
     <br><br>
     <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Exclamation%20Mark.png" alt="Red Exclamation Mark" width="25" height="25" /> <b>General Feedback</b>: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
     <br><br>
-    <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <b>Support</b>: If you have found any of my content useful and would like to encourage more thorough work, you can do so<br>by supporting me through this donation channel <a href="https://revolut.me/kennetr3y8"><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" />  <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Money with Wings" width="25" height="25" /></a>. 
+    <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <b>Support</b>: If you have found any of my content useful and would like to encourage more thorough work, you can do so<br>by supporting me through this donation channel <a href="https://revolut.me/kennetr3y8"><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" /><img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Money with Wings" width="25" height="25" /></a>. 
     <br><br>
     <div align="center">
         <a>
