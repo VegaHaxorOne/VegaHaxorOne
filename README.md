@@ -47,7 +47,7 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,pinescript,bash,powershell,html,css,md&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,solana,pinescript,bash,powershell,html,css,md&perline=3&titles=true" />
         </a>
         </div>
       </td>
