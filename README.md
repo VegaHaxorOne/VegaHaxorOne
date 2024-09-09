@@ -12,6 +12,7 @@
           <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" /> 
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
+          <hr>
            </a>
         </h1> 
       </div>    
@@ -22,11 +23,11 @@
       <br><br>
       That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
       <br><br><br>
+      <div align="center">
+        <img  src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
+      </div>
     </figure>
 </details>
-<div align="center">
-  <img  src="1b83dce6c2a59c92d2dfdd14df85c377.gif" alt="Cyberpunk" width="50%" height="50%">
-</div>
 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
