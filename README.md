@@ -114,7 +114,10 @@
     <h2> Main Projects </h2>
   </p>
   <p>
-    Please, check the quick desctiption of the pinned repos down below.
+    Please check the quick description of the pinned repos down below.
+  </p>
+  <p>
+    Inside the repositories for each project, you can scroll down to find the README file which will guide you through.
   </p>
   <p>
     I Hope you can find something of interest.
