@@ -13,7 +13,7 @@
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
           </a>
-          <hr>
+          <hr width="75%">
         </h1> 
       </div>    
     </summary>
