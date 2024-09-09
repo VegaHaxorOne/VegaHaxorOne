@@ -85,10 +85,11 @@
             </strong>
           </summary>
           <figure> 
-            Systems: Windows, WSL, Ubuntu Server
             <br>
-            Blockchain: Solana CLI
-            <br>
+            Systems: Windows, WSL, Ubuntu Server.
+            <br><br>
+            Blockchain: Solana CLI.
+            <br><br>
             <em> 
               I use AI tools primarily to speed up writing processes and to manage complex design structures, 
               helping me outline and track the workflow. I'm always focused to keep balance, as it lacks the adaptability and creativity that I consider essential to achieve the level of quality I demand in the development of my scripts.
