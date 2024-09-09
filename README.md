@@ -12,8 +12,8 @@
           <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" /> 
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="50" height="50" style="pointer-events: none;" />
           <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />
+          </a>
           <hr>
-           </a>
         </h1> 
       </div>    
     </summary>
@@ -28,7 +28,7 @@
       </div>
     </figure>
 </details>
-<br><br>
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
 </div>
