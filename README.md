@@ -106,7 +106,7 @@
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
     <hr>
-    <img src="https://wakatime.com/share/@theMoor9/66ba8fca-6651-419c-b97e-5260916dcff3.svg" width="50%" height="50%" />
+    <img src="https://wakatime.com/share/@theMoor9/54c6b115-5e64-40ee-b0e0-0d42c52f7dfd.svg" width="50%" height="50%" />
     <p><em>Yes, I care about documentation. Eventually, all the markdown may be converted into PDFs.</em></p>
 </div>
 <br><br>
