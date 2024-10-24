@@ -107,6 +107,7 @@
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
     <hr>
     <img src="https://wakatime.com/share/@theMoor9/66ba8fca-6651-419c-b97e-5260916dcff3.svg" width="50%" height="50%" />
+    <p><em>Yes, I care about documentation. Eventually, all the markdown may be converted into PDFs.</em></p>
 </div>
 <br><br>
 
