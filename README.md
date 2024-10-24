@@ -105,6 +105,8 @@
 <div align="center">
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
+    <hr>
+    <img src="https://wakatime.com/share/@theMoor9/66ba8fca-6651-419c-b97e-5260916dcff3.svg" width="50%" height="50%" />
 </div>
 <br><br>
 
