@@ -61,7 +61,7 @@
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,md,raspberrypi,photoshop&perline=3&titles=true"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,md,raspberrypi&perline=3&titles=true"/>
         </a>
         </div>
       </td>
