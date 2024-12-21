@@ -47,28 +47,28 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,solana,pinescript,bash,powershell,html,css,md&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,py,js,solana,pinescript,bash,powershell&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,java,nodejs,php,mysql&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,java,nodejs,angular,html,css&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,photoshop&perline=3&titles=true"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,md,raspberrypi,photoshop&perline=3&titles=true"/>
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,raspberrypi&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu&perline=3&titles=true" />
         </a>
         </div>
       </td>
