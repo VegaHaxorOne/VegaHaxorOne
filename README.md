@@ -5,7 +5,6 @@
 <br><br>
 <details>
     <summary >
-    About me
     <div align="center">
         <h1>    
           <a href="#">       
@@ -22,7 +21,7 @@
       I am Kenneth, a software developer who gives his best to grow independently and push beyond limits.
       <br><br>
       As I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
-      <br>ty<br><br>
+      <br><br>Ty<br>
       <div align="center">
       </div>
     </figure>
@@ -105,22 +104,6 @@
 <div align="center">
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
-</div>
-<br><br>
-
-<div align="center">
-  <p>
-    <h2> Main Projects </h2>
-  </p>
-  <p>
-    Please check the quick description of the pinned repos down below.
-  </p>
-  <p>
-    Inside the repositories for each project, you can scroll down to find the README file which will guide you through.
-  </p>
-  <p>
-    I Hope you can find something of interest.
-  </p>
 </div>
 <br><br>
 
