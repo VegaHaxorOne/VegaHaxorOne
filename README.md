@@ -19,10 +19,10 @@
     </summary>
     <figure>
       <br>
-      I am Kenneth, a software developer who gives his best to grow independently and push beyond limits. <br><br>However, I strongly believe that the most powerful way to achieve greatness is by connecting and receiving feedback from inspiring people. The balance between challenge and connection is something I seek with the utmost passion.
+      I am Kenneth, a software developer who gives his best to grow independently and push beyond limits.
       <br><br>
-      That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
-      <br><br><br>
+      As I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
+      <br>ty<br><br>
       <div align="center">
       </div>
     </figure>
