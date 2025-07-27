@@ -21,7 +21,7 @@
       I am Kenneth, a software developer who gives his best to grow independently and push beyond limits.
       <br><br>
       As I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
-      <br><br>Ty<br>
+      <br><br><br>
       <div align="center">
       </div>
     </figure>
@@ -109,7 +109,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Visits)
 
-Being a part of theese projects will help create better material for the community. As i constantly improve my skill set your support and feedback are greatly appreciated! 
+Being a part of the following projects will help create better material for the community. As i constantly improve my skill set your support and feedback are greatly appreciated! 
 <br>
 
 <details>
