@@ -45,28 +45,28 @@
     <tr>
       <td valign="top">
         <div align="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,js,solana,pinescript,bash,powershell,md&perline=3&titles=true" />
+        <a href="https://github.com/VegaHaxorOne?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,js,solana,pinescript,bash,powershell,md,html,css,docker,sql&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
-        <a href="https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,flask,html,css,angular,django&perline=3&titles=true" />
+        <a href="https://github.com/VegaHaxorOne?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,flask,kubernetes,django&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
-        <a href=" https://github.com/theMoor9?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,raspberrypi&perline=3&titles=true"/>
+        <a href=" https://github.com/VegaHaxorOne?tab=repositories">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal,vscode,obsidian,sublime,git,githubcopilot,chatgpt,brave,raspberrypi&perline=3&titles=true"/>
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
-        <a href=" https://github.com/theMoor9?tab=repositories">
+        <a href=" https://github.com/VegaHaxorOne?tab=repositories">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&perline=3&titles=true" />
         </a>
         </div>
