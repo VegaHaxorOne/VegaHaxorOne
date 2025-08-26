@@ -67,7 +67,7 @@
       <td valign="top">
         <div align="center">
         <a href=" https://github.com/VegaHaxorOne?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows&perline=3&titles=true" />
         </a>
         </div>
       </td>
@@ -102,12 +102,12 @@
 </div>
 <br><br>
 <div align="center">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=theMoor9&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMoor9&langs_count=8&layout=compact&theme=ocean_dark" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=VegaHaxorOne&hide=contribs,prs&show_icons=true&rank_icon=github&theme=ocean_dark" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaHaxorOne&langs_count=8&layout=compact&theme=ocean_dark" />
 </div>
 <br><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Visits)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=VegaHaxorOne&style=plastic&color=70e000&label=All+Time+Profile+Visits)
 
 Being a part of the following projects will help create better material for the community. As i constantly improve my skill set your support and feedback are greatly appreciated! 
 <br>
