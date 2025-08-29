@@ -46,14 +46,14 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/VegaHaxorOne?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,solana,pinescript,bash,powershell,md,docker,sql&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,pinescript,bash,powershell,md,docker,sql&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/VegaHaxorOne?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,flask,kubernetes,django,html,css,js&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,solana,flask,kubernetes,django,html,css,js&perline=3&titles=true" />
         </a>
         </div>
       </td>
