@@ -28,7 +28,7 @@
 </details>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering,Noise+vs+Signal+Ratio" alt="List" style="max-width: auto; height: auto;">
 </div>
 <br><br>
 <div align="center">
@@ -46,14 +46,14 @@
       <td valign="top">
         <div align="center">
         <a href="https://github.com/VegaHaxorOne?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,js,solana,pinescript,bash,powershell,md,html,css,docker,sql&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=java,rust,py,cpp,solana,pinescript,bash,powershell,md,docker,sql&perline=3&titles=true" />
         </a>
         </div>
       </td>
       <td valign="top">
         <div align="center">
         <a href="https://github.com/VegaHaxorOne?tab=repositories">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,flask,kubernetes,django&perline=3&titles=true" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,nodejs,flask,kubernetes,django,html,css,js&perline=3&titles=true" />
         </a>
         </div>
       </td>
