@@ -28,7 +28,7 @@
 </details>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Coding;CheatSheets;Software+Engineering,Noise+vs+Signal+Ratio" alt="List" style="max-width: auto; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Smart+Solutions;Coding;CheatSheets;Software+Engineering;Noise+vs+Signal+Ratio" alt="List" style="max-width: auto; height: auto;">
 </div>
 <br><br>
 <div align="center">
